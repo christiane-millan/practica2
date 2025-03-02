@@ -1,6 +1,6 @@
 def hello(name):
-    print(f"Hello my friend, {name}!")
+    print(f"Hola, {name}!")
 
 if __name__ == "__main__":
-    input_name = input("What is your name? ")
+    input_name = input("Cuál es tu nombre? ")
     hello(input_name)
